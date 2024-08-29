@@ -3,19 +3,19 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "https://gekyume11.github.io/custom-boilerplate-cdn/react-icon.png",
+      "sizes": "2048x1822",
+      "type": "image/png"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "https://gekyume11.github.io/custom-boilerplate-cdn/dhruv.png",
+      "sizes": "715x790",
+      "type": "image/png"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "https://gekyume11.github.io/custom-boilerplate-cdn/hero-bg.png",
+      "sizes": "1833x1280",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
